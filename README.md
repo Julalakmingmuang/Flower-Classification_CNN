@@ -48,8 +48,6 @@ The dataset is available as a zip file and needs to be extracted before use. Ima
 ### Sample Images from Dataset
 
 ![Sample Images](output_image/flower_EX.png)
-*(From left to right: Daisy, Dandelion, Rose, Sunflower, Tulip)*
-
 
 ## How to Run
 
