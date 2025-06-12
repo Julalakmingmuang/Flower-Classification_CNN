@@ -101,7 +101,3 @@ Training and validation accuracy and loss trends are visualized using Matplotlib
 
 This project is for educational purposes. Check the dataset license on Kaggle before using it for commercial purposes.
 
----
-
-Feel free to reach out with any questions or feedback about this project!
-
