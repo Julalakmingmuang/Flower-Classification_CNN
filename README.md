@@ -45,6 +45,11 @@ The dataset is a collection of flower images grouped into five categories:
 - Tulips
 
 The dataset is available as a zip file and needs to be extracted before use. Images are organized into folders named after the flower categories.
+### Sample Images from Dataset
+
+![Sample Images](output_image/flower_EX.png)
+*(From left to right: Daisy, Dandelion, Rose, Sunflower, Tulip)*
+
 
 ## How to Run
 
@@ -74,6 +79,10 @@ The CNN architecture:
 
 - The model was trained for 30 epochs with a batch size of 32.
 - The test accuracy achieved was approximately **XX.XX%** (to be updated based on evaluation results).
+
+### Sample Predictions
+
+![Predictions](output_image/output.png)
 
 ## Visualization
 
