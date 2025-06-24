@@ -10,7 +10,7 @@ The objective of this project is to build and train a CNN model to classify flow
 
 - **Data Preprocessing**:
   - Extract and organize images from the dataset.
-  - Resize images to a consistent shape of 150x150 pixels.
+  - Resize images to a consistent shape of 224x224 pixels.
   - Normalize image pixel values to the range [0, 1].
   - Encode categorical labels into one-hot encoding.
 
